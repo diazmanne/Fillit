@@ -42,5 +42,5 @@ In this project we created a program called `fillit` wich allow you to take as a
 
 ###		Contributing
 
-`Vitruvian Men` | Emmanuel Diaz Ortega & Luis Sanchez Quiros | @Luiguian. 
+`Vitruvian Men` | Emmanuel Diaz Ortega & Luis Sanchez Quiros | @https://github.com/Luigian
 2019. Freemont, CA
