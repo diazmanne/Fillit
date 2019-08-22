@@ -37,7 +37,7 @@ In this project we created a program called `fillit` wich allow you to take as a
 ###	IV.	PROJECT SPECIFIC INFORMATION
 
 ###	V.	PROCEDURE
-![](rcsc/img/fillit_flowchart.png)
+![](rscs/img/fillit_flowchart.png)
 
 
 ###		Contributing
